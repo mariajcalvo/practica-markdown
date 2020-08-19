@@ -4,4 +4,4 @@
 ##### Encabezado Markdown de nivel 5
 ###### Encabezado Markdown de nivel 6
 
-*Texto en itálica con asterisco* _Texto en itálica con _ _
+*Texto en itálica con asterisco* _Texto en itálica con_
