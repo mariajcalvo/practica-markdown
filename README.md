@@ -16,3 +16,17 @@
 ![Gato](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/800px-Collage_of_Six_Cats-02.jpg)
 
 ![]()
+
+Lista Numerada Markdown
+1. Primer Elemento
+2. Segundo Elemento
+3. Tercer Elemento
+
+Lista no numerada Markdown  
+-Primer Elemento  
+-Segundo Elemento  
+-Tercer Elemento  
+
+<table>
+  <tr><th>Nombre</td><th>Apellido</td><tr>
+  <tr><td>Maria</td><td>Calvo</td><tr>
